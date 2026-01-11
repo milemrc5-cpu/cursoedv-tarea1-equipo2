@@ -29,3 +29,5 @@ Integrantes del Equipo
 • Nicolas Henriquez (@nicolasihenriquezs-boop)
 
 • Milena Rodriguez (@milemrc5-cpu)
+
+Usamos ayuda de herramientas como gemini para arreglar codigos fallidos y para entender mejor python.
